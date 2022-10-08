@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkarlbauer
-- 👀 I’m interested in MR Development, AI, HCI
+- 👀 I’m interested in XR, AI, Computer Graphics, HCI
 
 <!---
 jkarlbauer/jkarlbauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
